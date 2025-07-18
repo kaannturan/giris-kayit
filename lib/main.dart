@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-import "package:yasam_beklen/view/register.dart";
+import "package:yasam_beklen/view/register/register_view.dart";
 
 void main() {
   runApp(MyApp());
